@@ -7,7 +7,7 @@ Make sure python in installed on your machine. Use `python3 --version` to check 
 
 1. Clone this repository onto your computer 
 ```
-git clone && cd contact-scraper
+git clone https://github.com/jakeevans00/contact-scraper.git && cd contact-scraper
 ```
 2. Run my setup script (this will create a virtual environment, activate it, and install dependencies). This might require you to make it executable. If the command below fails, try running this `chmod +x setup.sh` and then running it again.
 ```
