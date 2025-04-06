@@ -1,0 +1,10 @@
+.env
+venv
+
+# App generated files
+results.html
+results.txt
+
+locations_data.*
+
+__pycache__
